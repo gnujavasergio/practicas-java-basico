@@ -24,9 +24,11 @@ public class Operadores {
                     int suma = a  + b;
                     int resta = a - b;
                     int multi = a * b;
+                    int division = a / b;
                     System.out.println("Suma: " + suma);
                     System.out.println("Resta: " + resta);
                     System.out.println("Multiplicacion: " + multi);
+                    System.out.println("Division: " + division);
                     break;
                 case 2:
                     System.out.println("2 - Logicas y de Comparación");
